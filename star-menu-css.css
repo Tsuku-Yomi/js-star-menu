@@ -1,0 +1,14 @@
+.star{
+    position: absolute;
+    border-radius: 50%;
+    text-align: center;
+    border-color: black;
+    border:2px;
+    border-style: solid;
+}
+.sky-title{
+    text-align: center;width: 100%;top:0px;left: 0px;z-index: 2147483647;-webkit-text-stroke: 1px #55ffcc;color:#ffffff;font-size:54px;-webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
